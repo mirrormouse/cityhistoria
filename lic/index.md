@@ -8,19 +8,24 @@
 # ライセンス表示、使用素材について
 
 ## マップチップ
-- サイト名　ドット絵世界　様
-- URL　　　http://yms.main.jp
+- ドット絵世界　様
+    * URL：http://yms.main.jp
 
 
 ## 素体キャラチップ
 - 南瓜由可　様
-- Pixiv ID：26422056
+    * Pixiv ID：26422056
 
 
 ## ゲーム用モンスター素材
 - ローズミルクティー　様
-- URL https://rosemilktea.booth.pm/
+    * URL：https://rosemilktea.booth.pm/
 
+
+
+
+
+   
 
 ## アイコン、背景画像
 - Stable Diffusionより生成
